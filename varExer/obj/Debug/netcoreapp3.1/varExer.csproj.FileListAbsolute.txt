@@ -1,0 +1,4 @@
+C:\Users\Cameron Kellett\Skoo\GIT\repos\varExer\varExer\obj\Debug\netcoreapp3.1\varExer.csprojAssemblyReference.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\varExer\varExer\obj\Debug\netcoreapp3.1\varExer.AssemblyInfoInputs.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\varExer\varExer\obj\Debug\netcoreapp3.1\varExer.AssemblyInfo.cs
+C:\Users\Cameron Kellett\Skoo\GIT\repos\varExer\varExer\obj\Debug\netcoreapp3.1\varExer.csproj.CoreCompileInputs.cache
